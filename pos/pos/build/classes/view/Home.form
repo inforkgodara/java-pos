@@ -48,7 +48,7 @@
           <Color blue="83" green="80" red="80" type="rgb"/>
         </Property>
         <Property name="horizontalAlignment" type="int" value="0"/>
-        <Property name="text" type="java.lang.String" value="HOME"/>
+        <Property name="text" type="java.lang.String" value="Welcome"/>
       </Properties>
     </Component>
   </SubComponents>
