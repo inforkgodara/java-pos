@@ -23,3 +23,5 @@ This is simple point of sale for retail store which is developed in java swing. 
 
 ### Update Invoice - POS
 ![Update Invoice - POS](https://raw.github.com/inforkgodara/java-pos/master/screenshots/java-pos-update-invoice.png?raw=true "java-pos")
+
+Note: It is developed for the practice purpose actually not a product to use. A good fully functionality java pos will be updated soon.
