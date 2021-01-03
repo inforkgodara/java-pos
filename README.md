@@ -1,5 +1,7 @@
 # Java POS
-This is simple point of sale for retail store which is developed in java swing. Currently working on JavaFx, This will be converted into JavaFx soon in the same repo and update for the rest of crud operation like item, price, customer, special discount, coupon 
+This is simple point of sale for retail store which is developed in java swing. Currently working on JavaFx, This will be converted into JavaFx soon in the same repo and update for the rest of crud operation like item, price, customer, special discount, coupon.
+
+### Note: A better version of this repository is in another repository where you will get fully functional pos except the finance module. https://github.com/inforkgodara/store-pos
 
 ## Screenshots
 
@@ -24,4 +26,4 @@ This is simple point of sale for retail store which is developed in java swing. 
 ### Update Invoice - POS
 ![Update Invoice - POS](https://raw.github.com/inforkgodara/java-pos/master/screenshots/java-pos-update-invoice.png?raw=true "java-pos")
 
-Note: It is developed for the practice purpose actually not a product to use. A good fully functionality java pos will be updated soon.
+Note: It is developed for the practice purpose actually not a product to use.
